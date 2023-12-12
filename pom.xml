@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <packaging>pom</packaging>
+    <modules>
+        <module>tree</module>
+    </modules>
+
+    <groupId>org.tangerine</groupId>
+    <artifactId>tangerine-tool</artifactId>
+    <version>0.0.1</version>
+    <name>Archetype - tangerine-parent</name>
+    <description>tangerine-tool是一个小而不全的Java工具类库，通过大脑游荡，双脚抽搐，随便划拉键盘而成。</description>
+    <url>https://github.com/oraliyuan/tangerine-tool</url>
+
+
+
+
+</project>
