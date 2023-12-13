@@ -17,7 +17,7 @@
     </build>
 
     <parent>
-        <groupId>org.tangerine</groupId>
+        <groupId>io.github.oraliyuan</groupId>
         <artifactId>tangerine-tool</artifactId>
         <version>0.0.1</version>
     </parent>
